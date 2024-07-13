@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brunaseifer
 - 👀 I’m interested in aprender programação
 - 🌱 I’m currently learning java
-- 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: estou online mesmo não estando, sempre de olho.
 
