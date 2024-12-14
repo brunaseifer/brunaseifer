@@ -14,6 +14,8 @@ Usei o "Nightcafe" para gerar a imagem. O "D-ID" foi essencial para criar um ava
 ## 🚀 Resultados
 O vídeo é sobre uma assistente virtual que ajuda pessoas com seus conselhos astrológicos.
 
+## link do video: https://github.com/user-attachments/assets/2f215501-6aef-4d7a-9972-90ec44ae998c
+
 
 
 ## 💭 Reflexão
